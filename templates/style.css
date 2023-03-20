@@ -1,0 +1,16 @@
+.textbig{
+    font-size: 36px;
+}
+.textsmall{
+    font-size: 18px;
+}
+.button{
+    background-color: #000;
+}
+a{
+    display: inline-block;
+}
+div{
+    border: 3px;
+    border-color: #000;
+}
